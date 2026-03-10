@@ -1,1 +1,5 @@
+# Ignore dataset folder
 data/
+
+# Mac system files
+.DS_Store
